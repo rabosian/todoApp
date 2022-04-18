@@ -1,0 +1,21 @@
+img {
+    border-radius: 50%;
+}
+
+body {
+    margin-top: 100px;
+    background: antiquewhite;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
